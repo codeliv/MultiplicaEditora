@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<!--
+
+-->
+<html>
+	<head>
+		<title>COVERS creation process - Multiplica</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="images/LogoMultiplicavisual.svg" alt="" /></span><span class="title">CAPAS</span>
+								</a>
+
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="capas.html">Capas</a></li>
+							<li><a href="revisao.html">Copidesque/Revisão</a></li>
+							<li><a href="diagramacao.html">Diagramação/Design Editorial</a></li>
+							<li><a href="ebook.html">Ebooks</a></li>
+							<li><a href="transcricao.html">Transcrições</a></li>
+							<li><a href="traducao.html">Traduções</a></li>
+							<li><a href="kids.html">KIDS</a></li>
+							<li><a href="websites.html">WEB</a></li>
+							<li><a href="depoimentos.html">Depoimentos - Clientes</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>Multiplica Editora COVERS</h1>
+							<span class="image main"><img src="images/pic13.svg" alt="" /></span>
+							<span class="image main"><img src="images/pic13a.svg" alt="" /></span>
+							<span class="image main"><img src="images/pic13C.svg" alt="" /></span>
+							<p><br><b> YES! We L.O.V.E create COVERS! These are some examples of our covers!</b></br></p>
+							<div align="justify">You've probably heard <b>"Don't judge a book by its cover".</b> This expression works when we talk about people, but when we talk about BOOKS, it's not quite like that. Indirectly or directly, our brain is "pre-programmed" to try to decipher what message the book will carry through the cover. There are studies that prove the influence of the cover when the reader wants to buy a book. Sometimes, a cover that communicates with the reader will make the difference between reading the back cover, the flaps and deciding whether or not to buy the book. It is through the cover that your reader will have the first contact with your work!</div>
+							<p><div align="justify"> As highly stimulated by the sense of sight, we are influenced by images through their forms, colors and compositions. When seeing an image, whether for, we create an expectation that it: it gives a hint of what it represents. It precisely messes with our <b>limbic system,</b> whether to create a positive or negative stimulus. A dark composition, with fog, dark colors, silhouettes may not be for everyone, but fans of thriller stories will be stimulated by it. While perhaps, a composition with pastel tones and delicate designs of flowers or wreaths go unnoticed by them, but it captures the attention of people who like a vivid, delicate and romantic look.</div></p>
+							<p><div align="justify"> Often, during the Cover Brainstorming process with the client, we realize that the idea can be very good, according to the plot of the book, or it can lead to the opposite side of what the author wants. That's why we advise on this process, giving suggestions and making changes until the author is satisfied with the cover. We are very specific in this regard. </div></p>
+							<br><b> 1 - Title always visible and legible.</b><div align="justify">It can happen that behind the title there is an image, so there are ways to highlight the title so that the words are clear and easy to read . </div></br>
+							<br><b> 2 - High resolution images. </b><div align="justify"> It is extremely important and makes all the difference an image with high resolution. Sometimes when printing, it may happen that the image is "pixelated" (when you can see the dots of the image, which is called Pixels, therefore pixelated), or some distortion that may not be noticeable on the monitor. We do invest in high quality images.</div></br>
+							<br><b> 3 - Be careful with the combination of fonts. </b><div align="justify"> There are fonts that don't match to each other. It could be the style of the font, the caliber, distance. There are fonts that have more impact on the eyes and others that are more delicate. When you mix a lot of different fonts on the cover, it can convey a skewed message of what you want to get across.</div></br>
+							<br><b> 4 - The story Genre. </b> <div align="justify">The covers have different styles and the genres influence the choice. A self-help or spiritual book will have a very different cover than a crime fiction or horror book. </div></br>
+							<br><b> 5 - Feeling. </b><div align="justify"> When we are creating the cover, one of the questions we ask the author is what feeling do you want to cause in your reader? Yes, we managed to convey the feeling that the author wants when we are making the cover. </div></br>
+							<br><div align="justify"> These are some of the points we take into account when designing your cover. Come with us and we'll make the cover that will touch your heart!</div></br>
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+								<h2>ENTRE EM CONTATO:</h2>
+								<form method="post" action="<form method="post" action="mailto:contato@multiplicaeditora.com">
+
+									<div class="fields">
+										<div class="field half">
+											<input type="text" name="name" id="name" placeholder="Nome" />
+										</div>
+										<div class="field half">
+											<input type="email" name="email" id="email" placeholder="Email" />
+										</div>
+										<div class="field">
+											<textarea name="message" id="message" placeholder="Mensagem"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Enviar" class="primary" /></li>
+									</ul>
+								</form>
+							</section>
+							<section> 
+								<h2>SIGA</h2>
+								<ul class="icons">
+									<li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="https://www.facebook.com/multiplicaeditora" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="https://www.instagram.com/multiplicaeditora/" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="https://www.multiplicaeditora.com/" class="icon brands style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-500px"><span class="label">500px</span></a></li>
+									<li><a href="tel:+5511913530303" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
+									<li><a href="mailto:contato@multiplicaeditora.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+								</ul>
+							</section>
+							<ul class="copyright">
+								<li>&copy; Multiplica Editora. All rights reserved</li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
