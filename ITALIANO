@@ -1,0 +1,256 @@
+<!DOCTYPE HTML>
+<html>
+	<ul class="actions">
+		<li><a href="index.html" class="engish"><img src="images/bra.png" /></a></li>
+		<li><a href="indexFRE.html" class="french"><img src="images/fre.png" /></a></li>
+		<li><a href="indexGER.html" class="engish"><img src="images/ger.png" /></a></li>
+		<li><a href="indexSPA.html" class="engish"><img src="images/spa.png" /></a></li>
+		<li><a href="indexITA.html" class="engish"><img src="images/ita.png" /></a></li></ul>
+	
+	<head>
+		
+		<title>Multiplica Editora</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="images/LogoMultiplica.svg" alt="" /></span>
+									<span class="symbol"><img src="images/LogoMultiplicavisual.svg" alt="" /></span>
+									<span class="symbol"><img src="images/LogoMultiplicakids.svg" alt="" /></span>
+									<span class="symbol"><img src="images/LogoMultiplicainter.svg" alt="" /></span>
+									<span class="title">Multiplica Editora</span>
+								</a>
+
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="capas.html">Capas</a></li>
+							<li><a href="revisao.html">Copidesque/Revisão</a></li>
+							<li><a href="diagramacao.html">Diagramação/Design Editorial</a></li>
+							<li><a href="ebook.html">Ebooks</a></li>
+							<li><a href="transcricao.html">Transcrições</a></li>
+							<li><a href="traducao.html">Traduções</a></li>
+							<li><a href="kids.html">KIDS</a></li>
+							<li><a href="websites.html">WEB</a></li>
+							<li><a href="depoimentos.html">Depoimentos - Clientes</a></li>
+							
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<header>
+								<h1>WELCOME! Multiplica Editora</h1>
+								<p><h3>SIAMO FELICI DI AVERVI QUI!</h3><p>
+
+<p><br>Moltiplica Editora nasce dal desiderio di aiutare altre persone a mettere su carta le loro storie, in questo modo molte vite ne vengono colpite. Il nostro slogan è:<b> "Ognuno ha una storia da GUARIRE".</b> Il nostro obiettivo principale è aiutare queste storie a moltiplicarsi, traboccando così di conoscenze, esperienze e trasformando la vita attraverso le parole. Con sede in Brasile e Portogallo, partecipiamo in tutto il mondo.
+</br>
+								
+								<br><b><i>Multiplica Divisioni:</b></i></p>
+							</header>
+							<body class="is-preload">
+
+  <meta charset='utf-8'>
+  <style>
+    .holder {
+      display: inline;
+    }
+    .holder img {
+      max-height: 100px;
+      max-width: 100px;
+      object-fit: cover;
+    }
+								</style>			
+								<body>
+  <div class='holder'>
+    <img src="images/LogoMultiplica.svg">
+	  <br><b>EDITORE</b> è il luogo in cui ci occupiamo di tutta la parte Editoriale/Editoria di Libri, riviste, opuscoli, giornali, ebook. Siamo in grado di fornire qualsiasi servizio editoriale.</br><br></br>
+</div>
+  <div class='holder'>
+    <img src="images/LogoMultiplicavisual.svg">
+	  <br><b>MULTIPLICA VISUAL</b> è dove sviluppiamo qualsiasi parte creativa che abbia elementi grafici e visivi. COPERTINE, layout, illustrazioni, identità visiva, creazione di siti Web, portfolio online, curriculum online, montaggio video e vignette.</br><br></br>
+ </div>
+	<div class='holder'>
+    <img src="images/LogoMultiplicakids.svg">
+	  <br><b>MULTIPLICA BAMBINI</b> diamo un'attenzione speciale ai PICCOLI SCRITTORI, come chiamiamo i nostri <b>Piccoli GRANDI Autori!</b> Abbiamo un progetto per lanciare libri per bambini a partire dai 2 anni.</br><br> </br>
+</div>
+	 <div class='holder'>
+    <img src="images/LogoMultiplicainter.svg">
+	  <br><b>MULTIPLICA INTERNATIONAL</b> è il posto giusto per te che vuoi lanciare i tuoi libri in altri paesi. Ci occupiamo dell'intero processo, dalla traduzione alla disponibilità su supporti fisici e Marketplace in diversi paesi.</br><br></br>
+</div>
+</body>
+
+<span class="title"><b>I NOSTRI SERVIZI:</b></span></br></a>
+							
+							<section class="tiles">
+								<article class="style1">
+									<span class="image">
+										<img src="images/pic01.jpg" alt="" />
+									</span>
+									<a href="covers.html">
+										<h2>COPERTINAS</h2>
+										<div class="content">
+											<p>Copertinas - il processo di creazione</p>
+										</div>
+									</a>
+								</article>
+								<article class="style2">
+									<span class="image">
+										<img src="images/pic02.jpg" alt="" />
+									</span>
+									<a href="proofread.html">
+										<h2>Correziones</h2>
+										<div class="content">
+											<p>Processo di correzione</p>
+										</div>
+									</a>
+								</article>
+								<article class="style3">
+									<span class="image">
+										<img src="images/pic03.jpg" alt="" />
+									</span>
+									<a href="layout.html">
+										<h2>Layout e Design Editoriale</h2>
+										<div class="content">
+											<p>La pARTE visiva.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style4">
+									<span class="image">
+										<img src="images/Ebooks.jpg" alt="" />
+									</span>
+									<a href="ebookEN.html">
+										<h2>Ebooks</h2>
+										<div class="content">
+											<p>Il WWW vuole anche il tuo capolavoro!</p>
+										</div>
+									</a>
+								</article>
+								<article class="style5">
+									<span class="image">
+										<img src="images/pic05.jpg" alt="" />
+									</span>
+									<a href="transcriptions.html">
+										<h2>Trascrizioni</h2>
+										<div class="content">
+											<p>Tu registri, noi scriviamo</p>
+										</div>
+									</a>
+								</article>
+								<article class="style6">
+									<span class="image">
+										<img src="images/pic06.jpg" alt="" />
+									</span>
+									<a href="traducao.html">
+										<h2>Traduzioni</h2>
+										<div class="content">
+											<p>La barriera della LINGUA qui non esiste!</p>
+										</div>
+									</a>
+								</article>
+								<article class="style2">
+									<span class="image">
+										<img src="images/kids.svg" alt="" />
+									</span>
+									<a href="kidsEN.html">
+										<h2>BAMBINI</h2>
+										<div class="content">
+											<p>Multiplica Bambini - Ai piccoli GRANDI scrittori!</p>
+										</div>
+									</a>
+								</article>
+								<article class="style3">
+									<span class="image">
+										<img src="images/web2.jpg" alt="" />
+									</span>
+									<a href="websites.html">
+										<h2>Creazione sito web</h2>
+										<div class="content">
+											<p>Creazione di siti web, portfolio e curriculum online.</p>
+										</div>
+									</a>
+								</article>
+								<article class="style1">
+									<span class="image">
+										<img src="images/clientes.jpg" alt="" />
+									</span>
+									<a href="depoimentos.html">
+										<h2>Testimonianze</h2>
+										<div class="content">
+											<p>Cosa hanno da dire i nostri clienti!</p>
+										</div>
+									</a>
+								
+							</section>
+						</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<section>
+								<h2>CONTATTACI:</h2>
+								<form method="post" action="<form method="post" action="mailto:contato@multiplicaeditora.com">
+
+									<a href="mailto:contato@multipllicaeditora.com">contato@mulltiplicaeditora.com</a>
+														       <br> +55 11 91353 0303</br>
+									
+							</section>
+							<section> 
+								<h2>Seguici:</h2>
+								<ul class="icons">
+									<li><a href="#" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="https://www.facebook.com/multiplicaeditora" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="https://www.instagram.com/multiplicaeditora/" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="https://www.multiplicaeditora.com/" class="icon brands style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
+									<li><a href="#" class="icon brands style2 fa-500px"><span class="label">500px</span></a></li>
+									<li><a href="tel:+5511913530303" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>
+									<li><a href="mailto:contato@multiplicaeditora.com" class="icon solid style2 fa-envelope"><span class="label">Email</span></a></li>
+								</ul>
+								
+								<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-27740381-9cec-4248-a3f8-e2eef47d3f9c"></div>
+							      
+							</section>
+							<ul class="copyright">
+								<li>&copy; Multiplica Editora. All rights reserved</li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
