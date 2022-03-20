@@ -96,7 +96,7 @@
  </div>
 	<div class='holder'>
     <img src="images/LogoMultiplicakids.svg">
-	  <br><b>MULTIPLICA ENFANTS</b> nous accordons une attention particulière aux PETITS ÉCRIVAINS, comme nous appelons nos <b>Petits GRANDS Auteurs !</b> Nous avons un projet de lancement de livres pour enfants à partir de 2 ans.</br><br ></br>
+	  <br><b>MULTIPLICA KIDS</b> nous accordons une attention particulière aux PETITS ÉCRIVAINS, comme nous appelons nos <b>Petits GRANDS Auteurs !</b> Nous avons un projet de lancement de livres pour enfants à partir de 2 ans.</br><br ></br>
 </div>
 	 <div class='holder'>
     <img src="images/LogoMultiplicainter.svg">
@@ -180,7 +180,7 @@
 									<a href="kidsEN.html">
 										<h2>KIDS</h2>
 										<div class="content">
-											<p>Multiplica Kids - To the littlle BIG writers!</p>
+											<p>Multiplica Kids - Aux petits GRANDS écrivains !</p>
 										</div>
 									</a>
 								</article>
@@ -189,9 +189,9 @@
 										<img src="images/web2.jpg" alt="" />
 									</span>
 									<a href="websites.html">
-										<h2>Website Creation</h2>
+										<h2>Création de site web</h2>
 										<div class="content">
-											<p>Creation of Websites, Portfolios and Online Resumes.</p>
+											<p>Création de sites Web, de portfolios et de CV en ligne.</p>
 										</div>
 									</a>
 								</article>
@@ -200,9 +200,9 @@
 										<img src="images/clientes.jpg" alt="" />
 									</span>
 									<a href="depoimentos.html">
-										<h2>Testimonialls</h2>
+										<h2>Témoignages</h2>
 										<div class="content">
-											<p>What our customers have to say!</p>
+											<p>Ce que nos clients ont à dire !</p>
 										</div>
 									</a>
 								
@@ -215,7 +215,7 @@
 						<footer id="footer">
 						<div class="inner">
 							<section>
-								<h2>CONTACT US:</h2>
+								<h2>Contactez-nous:</h2>
 								<form method="post" action="<form method="post" action="mailto:contato@multiplicaeditora.com">
 
 									<a href="mailto:contato@multipllicaeditora.com">contato@mulltiplicaeditora.com</a>
